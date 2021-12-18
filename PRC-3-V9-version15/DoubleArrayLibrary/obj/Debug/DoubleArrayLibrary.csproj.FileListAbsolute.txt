@@ -1,0 +1,6 @@
+C:\Users\ИСП-34\Desktop\PRC15 V9 x3\PRC-3-V9-master\DoubleArrayLibrary\bin\Debug\DoubleArrayLibrary.dll
+C:\Users\ИСП-34\Desktop\PRC15 V9 x3\PRC-3-V9-master\DoubleArrayLibrary\bin\Debug\DoubleArrayLibrary.pdb
+C:\Users\ИСП-34\Desktop\PRC15 V9 x3\PRC-3-V9-master\DoubleArrayLibrary\obj\Debug\DoubleArrayLibrary.csproj.AssemblyReference.cache
+C:\Users\ИСП-34\Desktop\PRC15 V9 x3\PRC-3-V9-master\DoubleArrayLibrary\obj\Debug\DoubleArrayLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ИСП-34\Desktop\PRC15 V9 x3\PRC-3-V9-master\DoubleArrayLibrary\obj\Debug\DoubleArrayLibrary.dll
+C:\Users\ИСП-34\Desktop\PRC15 V9 x3\PRC-3-V9-master\DoubleArrayLibrary\obj\Debug\DoubleArrayLibrary.pdb
